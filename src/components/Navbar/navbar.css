@@ -1,0 +1,35 @@
+
+
+nav{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+  
+   
+}
+
+
+nav a,nav a {
+    color: rgb(21, 38, 219) !important;
+    font-size: 20pt;
+    letter-spacing: 1px;
+    font-weight: bold !important;
+    text-transform: uppercase;
+    background-color: white;
+
+}
+nav img{
+    width: 30%;
+    height:30%;
+}
+nav .intern{
+    background-color:  rgb(21, 38, 219);
+    color: white !important;
+    transition: .4s ease-in-out;
+}
+nav .intern:hover{
+    background-color: transparent;
+    color: rgb(21, 38, 219) !important;
+}

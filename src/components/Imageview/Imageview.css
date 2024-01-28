@@ -1,0 +1,13 @@
+.imageview{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-around;
+}
+.rounded-img{
+    border-radius: 60%;
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+    border-color: rgb(206, 81, 81);
+    border-style:groove;
+}
